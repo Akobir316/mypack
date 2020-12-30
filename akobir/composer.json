@@ -1,0 +1,22 @@
+{
+  "name": "mypack/debug",
+  "description": "test package",
+  "type": "package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aslonov",
+      "email": "akosh@mail.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "debug\\": "debug"
+
+    }
+  },
+  "require": {
+    "php": ">=7.1"
+  }
+}
