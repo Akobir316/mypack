@@ -1,5 +1,5 @@
 {
-  "name": "debug",
+  "name": "akobir",
   "description": "test package",
   "type": "package",
   "license": "MIT",
@@ -12,7 +12,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "debug\\": "debug"
+      "debug\\": "akobir"
 
     }
   },
