@@ -1,5 +1,5 @@
 {
-  "name": "mypack/debug",
+  "name": "my_package/debug",
   "description": "test package",
   "type": "package",
   "license": "MIT",
