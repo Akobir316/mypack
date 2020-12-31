@@ -9,7 +9,7 @@
       "email": "akosh@mail.ru"
     }
   ],
-  "minimum-stability": "stable",
+
   "autoload": {
     "psr-4": {
       "debug\\": "akobir"
