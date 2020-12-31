@@ -9,14 +9,9 @@
       "email": "akosh@mail.ru"
     }
   ],
-
   "autoload": {
     "psr-4": {
       "debug\\": "akobir"
-
     }
-  },
-  "require": {
-    "php": ">=7.1"
   }
 }
